@@ -10,7 +10,7 @@ class HomeScreen extends StatelessWidget {
     final ApiClient apiClient = ApiClient();
 
     return Scaffold(
-      appBar: AppBar(title: const Text('QUDSPAY Test App')),
+      appBar: AppBar(title: const Text('Shawakil Store')),
       body: Center(
         child: ElevatedButton(
           onPressed: () async {
