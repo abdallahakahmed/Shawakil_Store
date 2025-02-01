@@ -1,4 +1,4 @@
-# qudspay_payment_app
+# Shawakil_Gateway_app
 
 A new Flutter project.
 
